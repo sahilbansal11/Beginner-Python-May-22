@@ -7,6 +7,7 @@ This repository contains the programs in Python illustrated during the sessions.
 |---------|-------|-------------|
 | 1. | Introduction to Python | [Session_1_Intro](Session_1_Intro/) |
 | 2. | Data Types and Conditionals | [Session_2](Session_2_Data_Types_and_Conditionals/) |
+| 3. | Control Statements - 2 | [Session 3](Session_3_Control_Statements/) |
 
 ## Detailed Codes
 
@@ -30,3 +31,7 @@ This repository contains the programs in Python illustrated during the sessions.
 3. [Challenge 2: Max of 2 numbers](Session_2_Data_Types_and_Conditionals/if_else.py)
 4. [Challenge 3: Categorize the input number](Session_2_Data_Types_and_Conditionals/nested_if_else.py) - Using nested if else
 5. [Challenge 3: Categorize the input number](Session_2_Data_Types_and_Conditionals/assignment_sol_check_number.py) - Using if elseif (elif) ladder
+
+### Session 3: Control Statements
+
+[Jupyter Notebook](Session_3_Control_Statements/notebook.ipynb)
