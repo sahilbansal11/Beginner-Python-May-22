@@ -45,4 +45,12 @@ This repository contains the programs in Python illustrated during the sessions.
 
 ### Session 4: Loops
 
-[Jupyter Notebook](Session_3_Control_Statements/notebook.ipynb)
+[Jupyter Notebook](Session_4_Loops/Loops_Problem_Solving.ipynb)
+
+### Session 5: Loops - 2
+
+[Jupyter Notebook](Session_5_Loops_2/For_Loops.ipynb)
+
+### Session 6: Pattern Printing
+
+[Jupyter Notebook](Session_6_Pattern_Printing/Pattern_Printing.ipynb)
