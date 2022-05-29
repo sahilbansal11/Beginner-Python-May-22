@@ -2,12 +2,19 @@
 
 This repository contains the programs in Python illustrated during the sessions.
 
+## PDF Notes
+[Drive Link](https://drive.google.com/drive/folders/1liN4BNwnAWdWWfWJn2UbiDq1oDNAyccI?usp=sharing)
+
 ## Session wise Codes
 | Session | Title | Code Folder |
 |---------|-------|-------------|
 | 1. | Introduction to Python | [Session_1_Intro](Session_1_Intro/) |
 | 2. | Data Types and Conditionals | [Session_2](Session_2_Data_Types_and_Conditionals/) |
 | 3. | Control Statements - 2 | [Session 3](Session_3_Control_Statements/) |
+| 4. | Loops | [Session 4](Session_4_Loops/) |
+| 5. | Loops - 2 | [Session 5](Session_5_Loops_2/) |
+| 6. | Pattern Printing | [Session 6](Session_6_Pattern_Printing/) |
+
 
 ## Detailed Codes
 
@@ -33,5 +40,9 @@ This repository contains the programs in Python illustrated during the sessions.
 5. [Challenge 3: Categorize the input number](Session_2_Data_Types_and_Conditionals/assignment_sol_check_number.py) - Using if elseif (elif) ladder
 
 ### Session 3: Control Statements
+
+[Jupyter Notebook](Session_3_Control_Statements/notebook.ipynb)
+
+### Session 4: Loops
 
 [Jupyter Notebook](Session_3_Control_Statements/notebook.ipynb)
