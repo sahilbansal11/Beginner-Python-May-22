@@ -14,6 +14,8 @@ This repository contains the programs in Python illustrated during the sessions.
 | 4. | Loops | [Session 4](Session_4_Loops/) |
 | 5. | Loops - 2 | [Session 5](Session_5_Loops_2/) |
 | 6. | Pattern Printing | [Session 6](Session_6_Pattern_Printing/) |
+| 7. | Functions | [Session 7](Session_7_Functions/) |
+| 8. | Functions - 2 | [Session 8](Session_8_Functions_2/) |
 
 
 ## Detailed Codes
@@ -54,3 +56,11 @@ This repository contains the programs in Python illustrated during the sessions.
 ### Session 6: Pattern Printing
 
 [Jupyter Notebook](Session_6_Pattern_Printing/Pattern_Printing.ipynb)
+
+### Session 7: Functions
+
+[Jupyter Notebook](Session_7_Functions/Functions.ipynb)
+
+### Session 8: Functions - 2
+
+[Jupyter Notebook](Session_8_Functions_2/Functions_2.ipynb)
