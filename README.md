@@ -17,7 +17,7 @@ This repository contains the programs in Python illustrated during the sessions.
 | 7. | Functions | [Session 7](Session_7_Functions/) |
 | 8. | Functions - 2 | [Session 8](Session_8_Functions_2/) |
 | 9. | Lists - 1 | [Session 9](Session_9_Lists_1/) |
-
+| 10. | Problem Solving - 1 | [Session 10](Session_10_Problem_Solving_1/Problem_Solving_1.ipynb) |
 
 ## Detailed Codes
 
@@ -69,3 +69,7 @@ This repository contains the programs in Python illustrated during the sessions.
 ### Session 9: Lists - 1
 
 [Jupyter Notebook](Session_9_Lists_1/Lists_1.ipynb)
+
+### Session 10: Problem Solving - 1
+
+[Jupyter Notebook](Session_10_Problem_Solving_1/Problem_Solving_1.ipynb)
