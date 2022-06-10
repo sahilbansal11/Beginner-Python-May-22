@@ -18,8 +18,8 @@ This repository contains the programs in Python illustrated during the sessions.
 | 8. | Functions - 2 | [Session 8](Session_8_Functions_2/) |
 | 9. | Lists - 1 | [Session 9](Session_9_Lists_1/) |
 | 10. | Problem Solving - 1 | [Session 10](Session_10_Problem_Solving_1/Problem_Solving_1.ipynb) |
-| 10. | Lists - 2 | [Session 10](Session_10_Lists_2/) |
-| 11. | Lists - 3 | [Session 11](Session_11_Lists_3/) |
+| 10. | Lists - 2 | [Session 10](Session_11_Lists_2/) |
+| 11. | Lists - 3 | [Session 11](Session_12_Lists_3/) |
 
 ## Detailed Codes
 
