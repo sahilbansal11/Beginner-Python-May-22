@@ -21,6 +21,8 @@ This repository contains the programs in Python illustrated during the sessions.
 | 11. | Lists - 2 | [Session 11](Session_11_Lists_2/) |
 | 12. | Lists - 3 | [Session 12](Session_12_Lists_3/) |
 | 13. | Lists - 4 | [Session 13](Session_13_Lists_4/) |
+| 14. | Problem Solving - 2 | [Session 14](Session_14_Problem_Solving_2/) |
+| 15. | Strings | [Session 15](Session_15_Strings/) |
 
 ## Detailed Codes
 
@@ -88,4 +90,12 @@ This repository contains the programs in Python illustrated during the sessions.
 ### Session 13: Lists - 4
 
 [Jupyter Notebook](Session_13_Lists_4/Lists_4.ipynb)
+
+### Session 14: Problem Solving - 2
+
+[Jupyter Notebook](Session_14_Problem_Solving_2/Problem_Solving_Lists.ipynb)
+
+### Session 15: Strings
+
+[Jupyter Notebook](Session_15_Strings/Strings.ipynb)
 
