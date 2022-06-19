@@ -23,6 +23,7 @@ This repository contains the programs in Python illustrated during the sessions.
 | 13. | Lists - 4 | [Session 13](Session_13_Lists_4/) |
 | 14. | Problem Solving - 2 | [Session 14](Session_14_Problem_Solving_2/) |
 | 15. | Strings | [Session 15](Session_15_Strings/) |
+| 16. | OOP | [Session 16](Session_16_OOP/) |
 
 ## Detailed Codes
 
@@ -98,4 +99,8 @@ This repository contains the programs in Python illustrated during the sessions.
 ### Session 15: Strings
 
 [Jupyter Notebook](Session_15_Strings/Strings.ipynb)
+
+### Session 16: OOP
+
+[Jupyter Notebook](Session_16_OOP/OOP_Intro.ipynb)
 
